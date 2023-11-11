@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Introducao-API-CSharp.props" />
+</Project>
